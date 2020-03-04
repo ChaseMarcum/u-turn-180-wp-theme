@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ac699830-3cb3-4555-91d7-4c07d12bd228" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-master/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/understrap-master/css/theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-master/css/theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/understrap-master/css/theme.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-master/css/theme.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/understrap-master/css/theme.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-master/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/understrap-master/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-master/sass/theme/_theme_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/understrap-master/sass/theme/_theme_variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/hestia" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -43,17 +38,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\laragon\www\test\wp-content\themes" />
-      <recent name="C:\laragon\www\test\wp-content\themes\uturn180\assets" />
-      <recent name="C:\laragon\www\test\wp-content\themes\twentytwenty\assets\js" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\laragon\www\test\wp-content\themes\twentytwenty\assets\js" />
       <recent name="C:\laragon\www\test\wp-content\themes\uturn180\assets\css" />
       <recent name="C:\laragon\www\test\wp-content\themes\twentytwenty\assets\css" />
       <recent name="C:\laragon\www\test\wp-content\themes\twentytwenty" />
       <recent name="C:\laragon\www\test\wp-content\themes\uturn180\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\u-turn-180-wp-theme\wp-content\themes" />
+      <recent name="C:\laragon\www\test\wp-content\themes" />
+      <recent name="C:\laragon\www\test\wp-content\themes\uturn180\assets" />
+      <recent name="C:\laragon\www\test\wp-content\themes\twentytwenty\assets\js" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -71,7 +67,7 @@
       <workItem from="1583107183966" duration="876000" />
       <workItem from="1583108072123" duration="473000" />
       <workItem from="1583108556314" duration="21282000" />
-      <workItem from="1583210231640" duration="3028000" />
+      <workItem from="1583210231640" duration="7687000" />
     </task>
     <servers />
   </component>
@@ -103,10 +99,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="629" y="298" key="EditFileWatcherDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583114600331" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1583127559771">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1583296847690">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583127559771" />
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583296847690" />
     <state x="733" y="334" key="NewPhpClassDialog" timestamp="1583105099819">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -127,14 +123,18 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2215" y="20" width="1541" height="1028" key="dock-window-1/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583213706277" />
-    <state x="656" y="118" width="737" height="804" key="find.popup" timestamp="1583206305108">
+    <state x="1920" y="0" width="1541" height="1028" key="dock-window-2" timestamp="1583297281407">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="0" width="1541" height="1028" key="dock-window-2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583297281407" />
+    <state x="656" y="118" width="1066" height="804" key="find.popup" timestamp="1583297080092">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="118" width="737" height="804" key="find.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583206305108" />
-    <state x="623" y="225" key="search.everywhere.popup" timestamp="1583213393003">
+    <state x="656" y="118" width="1066" height="804" key="find.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583297080092" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1583297539900">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583213393003" />
+    <state x="623" y="225" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583297539900" />
   </component>
   <component name="WordPressConfiguration" enabled="true">
     <wordpressPath>C:\laragon\www\test</wordpressPath>
